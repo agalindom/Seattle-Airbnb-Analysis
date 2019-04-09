@@ -34,6 +34,10 @@ The fremont area is a very hot destination besides downtown which is overwhelmed
 
 It is very important to have a great name and description for your listing, so in the analysis, for the most important fields like name, summary, description, neighborhood overview and space, i showed a number of words you can use that were used by the most booked listings in Seattle.
 
+## Resources 
+
+The Dataset can be found in https://www.kaggle.com/airbnb/seattle/data
+
 
 
 
