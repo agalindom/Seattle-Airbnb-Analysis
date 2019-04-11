@@ -12,6 +12,8 @@ The present analysis was made to get an insight into the behaviour of the host a
 
 4) Using the location of each listing, what are the differences in the listing geographical distribution based on the occupancy?
 
+5) Is being a superhost a factor for more bookings?
+
 ## Libraries
 
 The libraries needed to run this notebook are: pandas, numpy, matplotlib, seaborn, wordcloud, collections, PIL, and IPython
@@ -33,6 +35,8 @@ After the analysis i concluded that people want to feel like home when they book
 The fremont area is a very hot destination besides downtown which is overwhelmed by so much listings. 
 
 It is very important to have a great name and description for your listing, so in the analysis, for the most important fields like name, summary, description, neighborhood overview and space, i showed a number of words you can use that were used by the most booked listings in Seattle.
+
+Being a superhost does not guarantee you have a lot of bookings
 
 ## Resources 
 
