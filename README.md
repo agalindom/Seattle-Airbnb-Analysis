@@ -16,7 +16,7 @@ The present analysis was made to get an insight into the behaviour of the host a
 
 ## Libraries
 
-The libraries needed to run this notebook are: pandas, numpy, matplotlib, seaborn, wordcloud, collections, PIL, and IPython
+The libraries needed to run this notebook are: pandas, numpy, matplotlib, seaborn, wordcloud, collections, PIL, and IPython.
 
 ## Files
 
